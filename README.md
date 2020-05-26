@@ -1,2 +1,5 @@
-# gelbooru_search_engine
-Gelbooru Search Engine
+# Gelbooru Search Engine
+
+An image search robot for use in the Discord app.
+
+>>> Under construction <<<
